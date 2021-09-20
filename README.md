@@ -63,7 +63,7 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 <p align="left">
 <a href="https://twitter.com/nishanth_blacky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nishanth_blacky" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nishanth-m-3628881b0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nishanth-m-3628881b0" height="30" width="40" /></a>
-<a href="https://instagram.com/immortal_nishanth_007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="immortal_nishanth_007" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nisha_yalu_raja/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="immortal_nishanth_007" height="30" width="40" /></a>
   
 
 <h3 align="left">Languages and Tools:</h3>
