@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<a href="https://github.com/JOKER-NISHANTH">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOKER-NISHANTH&theme=white&hide_langs_below=1" />
+<a href="https://github.com/nishanth-d3v">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanth-d3v&theme=white&hide_langs_below=1" />
 </a>
 <br>
-<a href="https://github.com/JOKER-NISHANTH">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=JOKER-NISHANTH&show_icons=true&theme=white&line_height=27" alt="Nishanth github stats"/>
+<a href="https://github.com/nishanth-d3v">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nishanth-d3v&show_icons=true&theme=white&line_height=27" alt="Nishanth github stats"/>
 </a>
 -->
 
@@ -43,13 +43,13 @@ I always look at the positive side of things , which allows me to be more creati
 
 - 🌱 I’m currently learning Django , MERN Stack and Mechine learning etc..
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joker-nishanth&label=Profile%20views&color=0e75b6&style=flat" alt="joker-nishanth" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joker-nishanth" alt="joker-nishanth" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanth-d3v&label=Profile%20views&color=0e75b6&style=flat" alt="nishanth-d3v" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishanth-d3v" alt="nishanth-d3v" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nishanthmohan21" target="blank"><img src="https://img.shields.io/twitter/follow/nishanthmohan21?logo=twitter&style=for-the-badge" alt="nishanthmohan21" /></a> </p>
 
 [![Linkedin: Nishanth](https://img.shields.io/badge/-Nishanth-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishanth-m-3628881b0/)](https://www.linkedin.com/in/nishanth-m-3628881b0/)
-[![GitHub Nishanth](https://img.shields.io/github/followers/JOKER-NISHANTH?label=follow&style=social)](https://github.com/JOKER-NISHANTH)
+[![GitHub Nishanth](https://img.shields.io/github/followers/JOKER-NISHANTH?label=follow&style=social)](https://github.com/nishanth-d3v)
 
 
 
@@ -118,11 +118,11 @@ I always look at the positive side of things , which allows me to be more creati
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joker-nishanth&show_icons=true&locale=en&layout=compact" alt="joker-nishanth" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishanth-d3v&show_icons=true&locale=en&layout=compact" alt="nishanth-d3v" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joker-nishanth&show_icons=true&locale=en" alt="joker-nishanth" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishanth-d3v&show_icons=true&locale=en" alt="nishanth-d3v" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joker-nishanth&" alt="joker-nishanth" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishanth-d3v" alt="nishanth-d3v" /></p>
 
 
 
