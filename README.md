@@ -1,6 +1,5 @@
 <h1 align="center">Good to see you guys👋, I'm Nishanth M</h1>
 
-
 <!--
 **JOKER-NISHANTH/JOKER-NISHANTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h3 align="center">A passionate in coding from India</h3>
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 https://github.com/JOKER-NISHANTH
 
 -->
@@ -30,9 +28,9 @@ I really got into these things I really struggled getting to the right track
 to learning new things from ethical hacking and web development to how Computer systems are built , 
 I am only following my passion since doing the things you love will lead to success and here I am , 
 I always look at the positive side of things , which allows me to be more creative and solve problems.
- I Love working in a team , working in a team makes things more productive. 
-  Lastly I always love giving back , 
- I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
+I Love working in a team , working in a team makes things more productive. 
+Lastly I always love giving back , 
+I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 </p>
 
 **- Another Repo : https://github.com/JOKER-NISHANTH for learning perpose**
