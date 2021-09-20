@@ -1,9 +1,9 @@
 <h1 align="center">Good to see you guys👋, I'm Nishanth M</h1>
-<h3 align="center">A passionate in coding from India</h3>
+
 
 <!--
 **JOKER-NISHANTH/JOKER-NISHANTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h3 align="center">A passionate in coding from India</h3>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
