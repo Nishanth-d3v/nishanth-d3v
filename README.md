@@ -46,7 +46,9 @@ I always look at the positive side of things , which allows me to be more creati
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanth-d3v&label=Profile%20views&color=0e75b6&style=flat" alt="nishanth-d3v" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishanth-d3v" alt="nishanth-d3v" /></a> </p>
 
+<!--
 <p align="left"> <a href="https://twitter.com/nishanthmohan21" target="blank"><img src="https://img.shields.io/twitter/follow/nishanthmohan21?logo=twitter&style=for-the-badge" alt="nishanthmohan21" /></a> </p>
+-->
 
 [![Linkedin: Nishanth](https://img.shields.io/badge/-Nishanth-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishanth-m-3628881b0/)](https://www.linkedin.com/in/nishanth-m-3628881b0/)
 [![GitHub Nishanth](https://img.shields.io/github/followers/JOKER-NISHANTH?label=follow&style=social)](https://github.com/nishanth-d3v)
@@ -82,7 +84,10 @@ I always look at the positive side of things , which allows me to be more creati
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
+<!--
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
+-->
+
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   
   <!--Front end-->
