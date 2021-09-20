@@ -43,6 +43,7 @@ I always look at the positive side of things , which allows me to be more creati
  I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 </p>
 
+**- Another Repo : https://github.com/JOKER-NISHANTH for learning perpose**
 - 🌱 I’m currently learning Django , MERN Stack and Mechine learning etc..
 
 
