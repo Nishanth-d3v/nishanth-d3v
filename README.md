@@ -18,14 +18,6 @@ Here are some ideas to get you started:
 https://github.com/JOKER-NISHANTH
 
 -->
-<a href="https://github.com/nishanth-d3v">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanth-d3v&theme=white&hide_langs_below=1" />
-</a>
-<br>
-<a href="https://github.com/nishanth-d3v">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nishanth-d3v&show_icons=true&theme=white&line_height=27" alt="Nishanth github stats"/>
-</a>
-
 
 <p>
 Since 14 years old , 
@@ -51,7 +43,7 @@ I always look at the positive side of things , which allows me to be more creati
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishanth-d3v" alt="nishanth-d3v" /></a> </p>
 
 <!--
-<p align="left"> <a href="https://twitter.com/nishanthmohan21" target="blank"><img src="https://img.shields.io/twitter/follow/nishanthmohan21?logo=twitter&style=for-the-badge" alt="nishanthmohan21" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nishanth_blacky" target="blank"><img src="https://img.shields.io/twitter/follow/nishanth_blacky?logo=twitter&style=for-the-badge" alt="nishanth_blacky" /></a> </p>
 -->
 
 [![Linkedin: Nishanth](https://img.shields.io/badge/-Nishanth-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishanth-m-3628881b0/)](https://www.linkedin.com/in/nishanth-m-3628881b0/)
@@ -61,20 +53,20 @@ I always look at the positive side of things , which allows me to be more creati
 
 <!--
 [![Twitter: Nishanth](https://img.shields.io/twitter/follow/nishanthmohan21?style=social)](https://twitter.com/nishanthmohan21)
+<a href="https://stackoverflow.com/users/15107684" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15107684" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/nishanth007/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/nishanth007/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nishanth_m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nishanth_m" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/innocentnishanth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="innocentnishanth" height="30" width="40" /></a>
+</p>
 -->
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nishanthmohan21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nishanthmohan21" height="30" width="40" /></a>
+<a href="https://twitter.com/nishanth_blacky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nishanth_blacky" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nishanth-m-3628881b0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nishanth-m-3628881b0" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15107684" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15107684" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/nishanth007/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/nishanth007/" height="30" width="40" /></a>
 <a href="https://instagram.com/immortal_nishanth_007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="immortal_nishanth_007" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nishanth_m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nishanth_m" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/innocentnishanth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="innocentnishanth" height="30" width="40" /></a>
-</p>
-
+  
 
 <h3 align="left">Languages and Tools:</h3>
 
